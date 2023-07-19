@@ -1,4 +1,4 @@
-# KhaingSuThway.github.io
+## Unveiling the World of ECG Record Scraping and MySQL Database Integration
 Welcome to a fascinating journey into the realm of Electrocardiogram (ECG) record scraping and its seamless integration with a MySQL database. In the vast realm of medical data, ECG records serve as an invaluable resource for analyzing heart health and diagnosing cardiac conditions. The ability to extract, organize, and store ECG records from diverse sources not only opens up new possibilities for medical research but also offers an opportunity to master essential programming skills.
 
 In this blog, we dive deep into the world of Python programming and web scraping techniques to extract ECG record tables from PhysioNet, a repository of biomedical data. We'll be focusing on two prominent databases, the MIT-BIH Arrhythmia Database and the Long-Term AF Database, and illustrate how to gather crucial information such as record IDs, sampling frequencies, and database names.
